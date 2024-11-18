@@ -17,12 +17,12 @@ def imfill (img : np.ndarray) -> np.ndarray:
   Parameters
   ----------
   img : array-like
-   Image to fill
+    Image to fill
 
   Returns
   -------
   filled : array-like
-   filled image
+    filled image
   '''
   # Copy the thresholded image.
   img = np.pad(img.astype('uint8'), pad_width=((2, 2), (2, 2)), mode='constant', constant_values=(0., 0.))
@@ -74,4 +74,3 @@ def LargestConnectedComponentsWithStats (src : np.ndarray) -> np.ndarray:
   left, top, w, h, _ = stats.iloc[0]
 
   return labels, (left, top, w, h)
-  

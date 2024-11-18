@@ -105,7 +105,6 @@ def efficientnetb3 (trainable=True):
   x = Conv2D(filters=1, kernel_size=(3, 3), padding='same', name='final_conv')(x)
   x = Activation('sigmoid', name='sigmoid')(x)
 
-
   model = tf.keras.models.Model(inputs=model.layers[3].input, outputs=x)
 
   return model
