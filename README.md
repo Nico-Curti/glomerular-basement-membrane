@@ -55,13 +55,13 @@ See [here](https://github.com/Nico-Curti/glomerular-basement-membrane/blob/main/
 
 ## Authors
 
-* <img src="https://avatars0.githubusercontent.com/u/24650975?s=400&v=4" width="25px"> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="27px">](https://github.com/Nico-Curti), [<img src="https://cdn.rawgit.com/physycom/templates/697b327d/logo_unibo.png" width="25px">](https://www.unibo.it/sitoweb/nico.curti2) **Nico Curti**
+* <img src="https://avatars0.githubusercontent.com/u/24650975?s=400&v=4" width="25px"> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="27px">](https://github.com/Nico-Curti) [<img src="https://cdn.rawgit.com/physycom/templates/697b327d/logo_unibo.png" width="25px">](https://www.unibo.it/sitoweb/nico.curti2) **Nico Curti**
 
 See also the list of [contributors](https://github.com/Nico-Curti/glomerular-basement-membrane/contributors) [![GitHub contributors](https://img.shields.io/github/contributors/Nico-Curti/glomerular-basement-membrane.svg?style=plastic)](https://github.com/Nico-Curti/glomerular-basement-membrane/graphs/contributors/) who participated in this project.
 
 ## License
 
-The `gbm-seg` package is licensed under the GPL-3.0 License. [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Nico-Curti/glomerular-basement-membrane/blob/main/LICENSE)
+The `gbm-seg` package is licensed under the [GPL-3.0 License](https://github.com/Nico-Curti/glomerular-basement-membrane/blob/main/LICENSE)
 
 ### Acknowledgment
 
