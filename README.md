@@ -1,6 +1,6 @@
 | **Authors**  | **Project** | **License** |
 |:------------:|:-----------:|:-----------:|
-| [**N. Curti**](https://github.com/Nico-Curti) | **gbmseg**<br>[![American Journal of Nephrology](https://img.shields.io/badge/AJN-10.1159.000542658-g.svg)](https://doi.org/10.1159/000542658) | [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Nico-Curti/glomerular-basement-membrane/blob/main/LICENSE) |
+| [**N. Curti**](https://github.com/Nico-Curti) | **gbmseg**<br>[![American Journal of Nephrology](https://img.shields.io/badge/AJN-10.1159.000542658-g.svg)](https://doi.org/10.1159/000542658) | [![license](https://img.shields.io/github/license/Nico-Curti/glomerular-basement-membrane.svg)](https://github.com/Nico-Curti/glomerular-basement-membrane/blob/main/LICENSE) |
 
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Nico-Curti/glomerular-basement-membrane.svg?style=plastic)](https://github.com/Nico-Curti/glomerular-basement-membrane/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/Nico-Curti/glomerular-basement-membrane.svg?style=plastic)](https://github.com/Nico-Curti/glomerular-basement-membrane/issues)
