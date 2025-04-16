@@ -218,8 +218,8 @@ class Patchifier (BaseEstimator, TransformerMixin):
       # If padding was required, the correct output
       # is given by a slicing of the dst array
       dst = dst[
-        self.pad_top_  : -self.pad_bottom_,
-        self.pad_left_ : -self.pad_right_,
+        self.pad_top_  : dst.shape[0]-self.pad_bottom_,
+        self.pad_left_ : dst.shape[1]-self.pad_right_,
         ...
       ]
 
