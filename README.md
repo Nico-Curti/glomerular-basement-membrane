@@ -28,6 +28,12 @@ Official implementation of the pipeline published on [Americal Journal of Nephro
 * [Acknowledgment](#acknowledgment)
 * [Citation](#citation)
 
+### :tada: Important updates 20/05/25 :tada:
+
+With the new version of the `GBM` dataset, we improved the segmentation model changing its architecture to a more robust U-2-Net (ref. [here](https://github.com/xuebinqin/U-2-Net)) and increasing the amount of training samples to 326 images (with a total of more than 4k disjoint patches)!
+The new version of the model is based on PyTorch and it provides the ONNX support for a faster computational time.
+The example notebook for the inference of new segmentation are updated according to this new model.
+
 ## Overview
 
 In this work we introduce a fully automated pipeline for the segmentation of GBM and successive thickness estimation, starting from TEM images.
